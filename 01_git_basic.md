@@ -4,6 +4,16 @@ git의 기초를 배워요
 
 
 
+## Warning
+
+1. Home 폴더를 lifo로 업그레이드 하지 않는다
+
+2. lifo안의 폴더에서 `git init`을 하지 않는다
+
+   (lifo안에 lifo를 두지 않는다)
+
+
+
 ## 저장소 초기화 하기
 
 `$ git init`
